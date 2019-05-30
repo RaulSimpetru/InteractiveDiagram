@@ -9,4 +9,4 @@ At the start the script will ask if you would like to provide one or more orient
 pandas, geocoder, numpy, matplotlib
 ### Example
 I have provieded a test file called data.csv which holds fictive information but can be used to see the script in action
-![](https://drive.google.com/open?id=1XEIgwD9czjmPOefrN_baBNG5Xg8e5Ov_.gif)
+![](Example.gif)
